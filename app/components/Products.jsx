@@ -1,5 +1,5 @@
 import Image from "next/image";
-import star from "@/assets/star.svg";
+import star from "@/assets/Star.svg";
 import forward from "@/assets/forward.svg";
 import CustomButton from "./CustomButton";
 
