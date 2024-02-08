@@ -2,7 +2,7 @@
 
 import Image from "next/image";
 import down from "@/assets/down.svg";
-import bag from "@/assets/Bag.svg";
+import bag from "@/assets/bag.svg";
 import Bg from "./Bg";
 import { useCartStore } from "@/store/useCartStore";
 import CartComponent from "./Cart";
