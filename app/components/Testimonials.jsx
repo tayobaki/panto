@@ -6,7 +6,7 @@ import tOne from "@/assets/testimonial1.png";
 import tTwo from "@/assets/testimonial2.png";
 import tThree from "@/assets/testimonial3.png";
 import forward from "@/assets/forward.svg";
-import star from "@/assets/star.svg";
+import star from "@/assets/Star.svg";
 import three from "@/assets/three.svg";
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Navigation } from "swiper/modules";
